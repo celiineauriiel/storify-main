@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416312207959",
+    "project_id": "storify-b5cc8",
+    "storage_bucket": "storify-b5cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416312207959:android:47e6e04b80005c83569112",
+        "android_client_info": {
+          "package_name": "com.example.stock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1hmmkHhla0wLD3y-ReOFT7z36mAL9aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416312207959:android:ca2fd37af4497bad569112",
+        "android_client_info": {
+          "package_name": "com.example.stockit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1hmmkHhla0wLD3y-ReOFT7z36mAL9aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
