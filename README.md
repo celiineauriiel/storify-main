@@ -1,4 +1,4 @@
-# stockit
+# storify
 
 A new Flutter project.
 
